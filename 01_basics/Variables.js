@@ -4,4 +4,7 @@ var CompanyName = "Jarvis"
 favorate_fruit = "Carrot";
 let favoriteSport;
 
+/* Please Don't use var */
+
 console.table([accountId, accountName, CompanyName, favorate_fruit, favoriteSport])
+
