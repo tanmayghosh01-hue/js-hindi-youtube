@@ -38,6 +38,8 @@ let myObj ={
     age : 22,
 }
 
+console.log(myObj.name)
+
 
 const myFunction = function() {
     console.log("Hello World")
@@ -67,6 +69,11 @@ console.log(typeof myFunction)
        Arrays  =>  object
        Function  =>  function
        Object  =>  object
+
+
+       Primitive data -> stack Datastructure
+
+       Non-Primitive Data -> Heap Datasturcture
 
 */
 
